@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-3DS OUTSCALE is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://outscale.com/
+3DS OUTSCALE, a subsidiary of Dassault Systèmes, provides a public cloud computing platform offering IaaS services such as virtual servers, storage, networking, and compatible APIs with AWS. The company focuses on European data sovereignty and enterprise-grade security, delivering scalable infrastructure for businesses worldwide.
+
+**Areas:** Cloud · IaaS · Compute · Storage · Networking
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://outscale.com/)
+- [Documentation](https://docs.outscale.com/)
+- [API reference](https://docs.outscale.com/api.html)
+- [GitHub](https://github.com/outscale)
+
+**APIs profiled:** 5
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/outscale/](https://apis.io/providers/outscale/).
